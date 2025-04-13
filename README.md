@@ -35,5 +35,12 @@ Back-end:
 Node.js + Express: API phục vụ dữ liệu khóa học, puzzle, đăng nhập,.. .Socket.IO (Server): Giao tiếp hai chiều cho các trận đấu online và chat.
 MySQL: Lưu trữ:
 Thông tin người dùng, khóa học, tin nhắn, thế cờ puzzle và trạng thái bàn cờ, danh sách tài khoản của người chơi 
-![Ảnh chụp màn hình 2025-04-10 173529](https://github.com/user-attachments/assets/11c5488b-a60a-4f43-9aba-7f6f55d404fb)
+
+Giao diện trang quản lí 
+![image](https://github.com/user-attachments/assets/0728e0fd-8eea-4c40-bacd-a0b20865cf43)
+![image](https://github.com/user-attachments/assets/e2589844-8c4c-4ff8-b394-524053d0cc3f)
+![image](https://github.com/user-attachments/assets/d08e0b5b-4e8d-48a0-8c96-ca108e6823f6)
+
+
+
 

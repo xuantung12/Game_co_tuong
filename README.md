@@ -1,2 +1,39 @@
 # Game_co_tuong
-vvdfffvvd
+Đánh cờ online với người lạ:
+Ghép ngẫu nhiên với người chơi khác hoặc tạo phòng riêng.
+Giao tiếp theo thời gian thực nhờ Socket.IO.
+Hỗ trợ chat trực tiếp trong trận đấu.
+Hỗ trợ gửi/nhận tin nhắn thời gian thực thông qua WebSocket.
+
+Chơi offline với máy (AI):
+Đối thủ máy sử dụng các thuật toán:
+Static Evaluation Function
+Minimax
+Alpha-Beta Pruning
+Mức độ thông minh của máy có thể được điều chỉnh.
+
+Chế độ giải đố (Puzzle):
+Người chơi giải các thế cờ định sẵn.
+Hệ thống phân loại độ khó từ 1 đến 10 sao.
+Trạng thái và lịch sử các thế cờ được lưu trữ bằng MySQL.
+
+Học cờ qua các khóa học:
+Các khóa học được admin thêm vào từ back-end.
+Bài học có thể bao gồm text, hình ảnh, hoặc video.
+Người dùng có thể theo dõi quá trình học và nâng cao kỹ năng.
+
+Theo dõi trận đấu đang diễn ra:
+Người dùng có thể xem live các ván đấu online.
+Có thể học hỏi chiến thuật từ những người chơi khác.
+
+Cộng đồng và chat:
+Tính năng chat cộng đồng dành cho người chơi đã đăng nhập.
+################################
+Front-end:
+React.js: Phát triển UI linh hoạt, component-based, Tailwind CSS: Tạo giao diện đẹp mắt, dễ tùy biến, responsive. JavaScript (ES6+): Logic xử lý tương tác người dùng, socket.IO (Client): Kết nối thời gian thực để chơi cờ và chat.
+Back-end:
+Node.js + Express: API phục vụ dữ liệu khóa học, puzzle, đăng nhập,.. .Socket.IO (Server): Giao tiếp hai chiều cho các trận đấu online và chat.
+MySQL: Lưu trữ:
+Thông tin người dùng, khóa học, tin nhắn, thế cờ puzzle và trạng thái bàn cờ, danh sách tài khoản của người chơi 
+![Ảnh chụp màn hình 2025-04-10 173529](https://github.com/user-attachments/assets/11c5488b-a60a-4f43-9aba-7f6f55d404fb)
+

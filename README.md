@@ -40,7 +40,17 @@ Giao diện trang quản lí
 ![image](https://github.com/user-attachments/assets/0728e0fd-8eea-4c40-bacd-a0b20865cf43)
 ![image](https://github.com/user-attachments/assets/e2589844-8c4c-4ff8-b394-524053d0cc3f)
 ![image](https://github.com/user-attachments/assets/d08e0b5b-4e8d-48a0-8c96-ca108e6823f6)
-(https://github.com/user-attachments/assets/bef55f92-6e43-4fd7-8e3d-9f85f5a06a21)
+![Ảnh chụp màn hình 2025-05-06 175210](https://github.com/user-attachments/assets/4c951389-2b71-4334-a92a-6754dd9badd8)
+![Ảnh chụp màn hình 2025-05-06 175126](https://github.com/user-attachments/assets/ad4bbafa-70e0-463c-970a-28cdd02079d1)
+![Ảnh chụp màn hình 2025-05-06 175302](https://github.com/user-attachments/assets/33514b4d-8b74-4b0d-88dc-a3195c6f5790)
+![Ảnh chụp màn hình 2025-05-06 175332](https://github.com/user-attachments/assets/7813cc55-35bc-4aca-b426-07b0e9d655de)
+![Ảnh chụp màn hình 2025-05-06 175550](https://github.com/user-attachments/assets/2bcedf31-9a4d-4df0-8117-e8df83f6df64)
+![Ảnh chụp màn hình 2025-05-06 175517](https://github.com/user-attachments/assets/d0a96b66-6353-48f5-b19b-2c8135edfdcf)
+
+
+
+
+
 
 
 

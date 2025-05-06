@@ -40,6 +40,8 @@ Giao diện trang quản lí
 ![image](https://github.com/user-attachments/assets/0728e0fd-8eea-4c40-bacd-a0b20865cf43)
 ![image](https://github.com/user-attachments/assets/e2589844-8c4c-4ff8-b394-524053d0cc3f)
 ![image](https://github.com/user-attachments/assets/d08e0b5b-4e8d-48a0-8c96-ca108e6823f6)
+(https://github.com/user-attachments/assets/bef55f92-6e43-4fd7-8e3d-9f85f5a06a21)
+
 
 
 

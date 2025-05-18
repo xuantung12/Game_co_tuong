@@ -39,17 +39,22 @@ A full-stack real-time Chinese Chess (Xiangqi) platform that supports online mul
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- **React.js** – Component-based frontend framework.
-- **Tailwind CSS** – Rapid UI development with utility classes.
-- **JavaScript (ES6+)** – For UI logic and client-side interactivity.
-- **Socket.IO (Client)** – Real-time communication.
+### Frontend (Players - `frontend-client`)
+- **React.js** – UI development (player interface)
+- **Tailwind CSS** – Responsive styling
+- **Socket.IO (Client)** – Real-time multiplayer and chat
+- **JavaScript (ES6+)**
+
+### Frontend (Admin - `frontend`)
+- **React.js** – Admin dashboard
+- **Tailwind CSS** – Admin UI
+- **Axios** – API calls to backend
 
 ### Backend
-- **Node.js + Express.js** – API and Socket.IO server.
-- **Socket.IO (Server)** – Handles matchmaking, live updates, chat.
-- **MySQL** – Stores user info, puzzles, game states, messages.
-- **dotenv** – For managing environment variables.
+- **Node.js + Express.js** – REST APIs and WebSocket server
+- **Socket.IO (Server)** – Matchmaking and chat
+- **MySQL** – Stores users, matches, puzzles, courses, messages
+- **JWT** – Authentication and authorization
 
 ---
 
@@ -93,18 +98,26 @@ A full-stack real-time Chinese Chess (Xiangqi) platform that supports online mul
 ## 🧪 Setup & Run Locally
 
 ```bash
-Backend
-cd backend
+## Backend
+cd ../backend
 npm install
 node server.js
 node server1.js
 node server2.js
 node servertest.js
 
-Frontend
-cd frontend
+## Frontend
+cd ../frontend
 npm install
 npm start
+
+## Frontend-client
+cd ../Frontend-client
+npm install
+npm start
+
+# If it doesn't work with "npm run start" add the following line to the scripts section of package.json
+"start": "react-scripts start",
 
 ## Contributing
 Contributions are welcome! You can:

@@ -55,29 +55,29 @@ A full-stack real-time Chinese Chess (Xiangqi) platform that supports online mul
 
 ## 📁 Project Structure
 /backend
-├── server.js / server1./ server2.js / servertest.js – API and Socket.IO servers
-├── uploads/ – Stores user-uploaded files
-├── .env – Environment variables
-├── package.json – Backend dependencies
+- server.js / server1./ server2.js / servertest.js – API and Socket.IO servers
+- uploads/ – Stores user-uploaded files
+- .env – Environment variables
+- package.json – Backend dependencies
 
 /frontend
-├── public/ – Static frontend assets
-├── src/
-└── components/
-├── ActiveGames.js – Displays live games
-├── background-home.js – Homepage background visuals
-├── chess-chat.js – In-game & community chat system
-├── chess-courses.js – Course list UI
-├── chess-earth.js – (Optional) Map/global user view
-├── chess-login.js – Login form
-├── chess-offline.js – Play with AI (offline mode)
-├── chess-online.js – Real-time online play
-├── chess-puzzle.js – Puzzle solving interface
-├── chess-register.js – User registration
-├── course-detail.js – Detailed course view
-├── home-page.js – Main homepage
-├── SpectateGame.js – Spectator mode UI
-├── tournament.js – Tournament bracket (if supported)
+- public/ – Static frontend assets
+- src/
+  - components/
+  - ActiveGames.js – Displays live games
+  - background-home.js – Homepage background visuals
+  - chess-chat.js – In-game & community chat system
+  - chess-courses.js – Course list UI
+  - chess-earth.js – (Optional) Map/global user view
+  - chess-login.js – Login form
+  - chess-offline.js – Play with AI (offline mode)
+  - chess-online.js – Real-time online play
+  - chess-puzzle.js – Puzzle solving interface
+  - chess-register.js – User registration
+  - course-detail.js – Detailed course view
+  - home-page.js – Main homepage
+  - SpectateGame.js – Spectator mode UI
+  - tournament.js – Tournament bracket (if supported)
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/0728e0fd-8eea-4c40-bacd-a0b20865cf43)
@@ -105,6 +105,18 @@ Frontend
 cd frontend
 npm install
 npm start
+
+## Contributing
+Contributions are welcome! You can:
+Submit bug reports or feature requests
+Fork the repo and submit pull requests
+Improve documentation
+Please follow the conventional Git flow and use descriptive commit messages.
+## Author
+[Xuân Tùng]
+🔗 GitHub: (https://github.com/xuantung12)
+✉️ Email: nguyenxuantung1212004@gmail.com
+If you still can't run the project, please contact me.
 
 
 

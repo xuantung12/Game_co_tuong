@@ -117,14 +117,3 @@ Please follow the conventional Git flow and use descriptive commit messages.
 🔗 GitHub: (https://github.com/xuantung12)
 ✉️ Email: nguyenxuantung1212004@gmail.com
 If you still can't run the project, please contact me.
-
-
-
-
-
-
-
-
-
-
-
